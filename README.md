@@ -23,10 +23,10 @@ Modelled in Fusion360. I provided the f3d files and the STL files if you want to
 I ended up attaching the piezo using blutack to the centre of the back of the don and ka plates
 
 ### Printing instructions
-https://github.com/leCloudy/TaikoController3Dprint/assets/50788385/0afff80c-5fd6-49ac-9b99-cfe1d718ff6b
+<img src="https://github.com/leCloudy/TaikoController3Dprint/assets/50788385/5521e0c9-e7e2-419c-ac30-bd7ef3cc1821" height="500">
 
 As the piezo are used to detect vibration, using a 100% infill should help but it worked for me using 40%.
-This was printed using an ender3v2. The dimensions are maxed for the print bed, but if you have a bigger printer you can scale it up.
+This was printed using an modded ender3v2. The dimensions are maxed for the print bed, but if you have a bigger printer you can scale it up.
 Print the standoff with 0% infill to reduce the transmission of vibration. If possible it can be substituted with something soft like a silicon sock.
 
 ### Items
