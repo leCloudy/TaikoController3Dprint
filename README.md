@@ -27,6 +27,7 @@ https://github.com/leCloudy/TaikoController3Dprint/assets/50788385/0afff80c-5fd6
 
 As the piezo are used to detect vibration, using a 100% infill should help but it worked for me using 40%.
 This was printed using an ender3v2. The dimensions are maxed for the print bed, but if you have a bigger printer you can scale it up.
+Print the standoff with 0% infill to reduce the transmission of vibration. If possible it can be substituted with something soft like a silicon sock.
 
 ### Items
 1) Arduino Micro
